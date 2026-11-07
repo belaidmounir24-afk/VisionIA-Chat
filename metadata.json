@@ -1,0 +1,8 @@
+{
+  "name": "Boîte de Commande Multimodale IA",
+  "description": "Interface mobile de commande multimodale avec analyse d'images, de vidéos et historique conversationnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
